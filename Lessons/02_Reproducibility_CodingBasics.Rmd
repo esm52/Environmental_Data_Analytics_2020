@@ -1,6 +1,6 @@
 ---
 title: "2: Reproducibility and Coding Basics"
-author: "Environmental Data Analytics | Kateri Salk"
+author: "Environmental Data Analytics | Erika Munshi"
 date: "Spring 2020"
 output: pdf_document
 geometry: margin=2.54cm
